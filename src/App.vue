@@ -71,6 +71,10 @@
         I accept the terms and conditions
         <button>Submit</button>
       </form>
+      <br>
+      <br>
+      <p> already have an account</p>
+      <RouterLink>Login</RouterLink>
     </section>
 
 </template>
