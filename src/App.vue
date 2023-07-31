@@ -73,8 +73,8 @@
       </form>
       <br>
       <br>
-      <p> already have an account</p>
-      <RouterLink>Login</RouterLink>
+      <!-- <p> already have an account</p>
+      <RouterLink>Login</RouterLink> -->
     </section>
 
 </template>
